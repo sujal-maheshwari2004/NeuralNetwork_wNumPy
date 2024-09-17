@@ -15,7 +15,7 @@ This project demonstrates the implementation of a simple neural network from scr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/nn-from-scratch.git
+   git clone https://github.com/sujal_maheshwari2004/NeuralNetword_wNumPy.git
    cd nn-from-scratch
    ```
 
